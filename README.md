@@ -1,3 +1,15 @@
+# Lesson 10 in Patrick's course
+
+In this project we built a front end to interact with the decentralized Raffle
+
+- Learn about Moralis hooks. Also some hooks from react, useState and useEffect. The moralis library is really nice and allows you to interact with the contracts easier.
+- Install talwind CSS.
+- Install web3uikit.
+- Make a script to create the `constants` folder where we store the abi and the adressess of
+  the contracts deployed.
+
+- To create a static folder to deploy : `yarn build` -> `yarn next export` -> `out` folder
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
